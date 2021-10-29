@@ -1,0 +1,18 @@
+---
+title: "way 2 markdown"
+author: "Loubna"
+date: "10/29/2021"
+output: html_document
+---
+
+
+```{r}
+library(raster)
+library(here)
+jan<-raster(here("Data", "wc2.1_5m_tmin_01.tif"))
+
+# have a look at the raster layer jan
+plot(jan)
+```
+
+
