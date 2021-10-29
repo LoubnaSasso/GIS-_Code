@@ -9,3 +9,6 @@ you <- 6 +10
 
 # changes on R but using git GUI to commit & push to github
 her <- "happy"
+
+#more changes on r
+hi <- "how are you"
