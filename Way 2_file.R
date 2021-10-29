@@ -6,3 +6,6 @@ me <- 20 + 7
 
 #my changes on git hub
 you <- 6 +10
+
+# changes on R but using git GUI to commit & push to github
+her <- "happy"
