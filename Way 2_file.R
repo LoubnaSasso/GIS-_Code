@@ -3,3 +3,6 @@ earth <- "hello world"
 
 #second edits for way 2
 me <- 20 + 7
+
+#my changes on git hub
+you <- 6 +10
